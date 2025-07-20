@@ -3,7 +3,7 @@ from PIL import Image, ImageTk
 from random import choice
 import pandas as pd
 
-#Global variable for the player name. Initialized to nothing because we haev to declare as something. However, the value in the code will change once the user inputs their name.
+#Global variable for the player name. Initialized to nothing because we have to declare it as something. However, the value in the code will change once the user inputs their name.
 playername="" 
 #This code creates a window using tkinter's Tk(), sets the name of the window with .title and the size of the window in pixels with .window.
 window = Tk()
