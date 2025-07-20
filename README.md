@@ -66,10 +66,6 @@ python game.py
 ## 📂 Files
 
 - `game.py` — Main game file (GUI)
-- `automated.py` — (Optional) Automated version
-- `main.py` — (Optional) Main entry point
-- `test.py` — (Optional) Tests
-- `VisualSnakeWaterGunGame.py` — (Optional) Alternate GUI version
 
 ---
 
