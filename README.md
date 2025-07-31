@@ -71,7 +71,7 @@ python game.py
 
 ## 🙋‍♂️ Author
 
-- [CodingCow123](https://github.com/CodingCow123)
+- [kaushalpemmaraju](https://github.com/kaushalpemmaraju)
 
 ---
 
